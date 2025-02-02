@@ -1,2 +1,2 @@
 # super-duper-spoon
-Maya Projects
+A simple lighting interface for Maya
